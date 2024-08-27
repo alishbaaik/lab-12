@@ -1,0 +1,14 @@
+#task1
+name="alishba iqbal"
+print(name)
+print(name.lsrtrip())
+print(name.rstrip())
+print(name,strip())
+
+#task2
+color=input("what is your favorite color")
+top_bottoml=color*10
+mid_line=color+" "*(len(top_bottoml)-2*len(color))+color
+print("/n"+top_bottoml)
+print(middle_line)
+print(top_bootoml)
